@@ -74,8 +74,32 @@ Utility tokens on the other hand are crypto assets that grant users access to sp
 
 Tokens derive their value based on demand and usability within a given ecosystem. Currency tokens are valued due to their scarcity and purchasing power while people buy into utility tokens to access future projects. Blockchain's ability to tokenize assets breakthrough new ways to structure incentives for users and developers alike in the collaborative sharing economy of web3.
 
+# Node
 
+Node refers to an active participant in a peer-to-peer decentralized network. Nodes allow decentralized protocols to operate in a distributed manner without relying on centralized intermediaries.
 
+In web2, we connect to centralized servers hosted by companies to access services like social media, streaming apps, online marketplaces etc. However, in web3 - blockchains form global peer-to-peer networks that run on nodes operated by individuals and organizations worldwide.
 
+Full nodes store the entire blockchain record and validate new transactions before adding them to the ledger. Light nodes on the other hand do not store the full history but can still interact with the network through their own personal backups. Together these nodes reach a decentralized consensus to process transactions and advance the blockchain in an open and collaborative manner.
 
+Running a node represents intrinsic belief in decentralization and playing an active role in maintaining the integrity and resiliency of a given network in web3. Their role will continue gaining importance as new blockchain use-cases disrupt legacy institutions through the spread of open participation.
 
+# Wallet
+
+A crypto wallet in web3 is basically your personal gateway to interacting with blockchain-based applications in a safe and secure manner. It allows users to store, send and receive digital assets like cryptocurrencies and NFTs.
+
+To visualize it better, think of a traditional wallet that holds your cash, cards and IDs. Similarly, a crypto wallet holds your private keys, which are long strings of numbers that prove your ownership of coins and tokens on the blockchain. Web3 wallets can be accessed through software, hardware or even paper forms for "cold" storage.
+
+Some key functions of wallets are: safely storing login keys, managing multiple accounts across different networks (e.g. both Ethereum and Bitcoin addresses), facilitating crypto purchases and trades, integrating with DeFi dapps for activities like lending and borrowing.
+
+Popular wallet options for beginners include Metamask, Coinbase Wallet and Trust Wallet. Make sure to choose a reputed software or hardware wallet, and never share your private keys with anyone to keep your funds secure in the brave new world of web3!
+
+# Smart contract
+
+A smart contract in web3 is basically a self-executing program stored on the blockchain that runs exactly as coded without any possibility of downtime, censorship, fraud or third-party interference.
+
+To help understand, think of contracts in the real world. They typically require intermediaries like lawyers and courts to oversee terms are being followed properly. Smart contracts bridge this gap by digitizing the agreement and enforcing clauses objectively through code.
+
+When deployed on blockchains like Ethereum, smart contracts can automate complex processes like financial loans, asset exchanges, crowdfunding campaigns and organizational governance in a decentralized way. They are designed to mitigate trust requirements through transparency and permanent storage on the immutable blockchain ledger.
+
+Some key uses of smart contracts include distributing tokens, executing trades on DEXes, powering DeFi protocols for lending-borrowing and managing workflow on decentralized applications. Their self-enforcing nature paves the path to a more just system by reducing vulnerabilities associated with centralized intermediaries. Undoubtedly one of the most revolutionary aspects of the creator economy being built on web3!
