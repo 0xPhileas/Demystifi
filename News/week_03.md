@@ -8,7 +8,7 @@ Barclays economists expect PCE inflation to reach 2.4% by end of 2024. They anti
 
 
 
-[^1] Source: [Barclays Forecasts FOMC Rate Cuts](https://www.investing.com/news/stock-market-news/barclays-makes-a-change-in-its-fed-call-now-sees-cuts-starting-in-march-3273792)
+[^1]: [Barclays Forecasts FOMC Rate Cuts](https://www.investing.com/news/stock-market-news/barclays-makes-a-change-in-its-fed-call-now-sees-cuts-starting-in-march-3273792)
 
 ```
 [^x] Source: []()
